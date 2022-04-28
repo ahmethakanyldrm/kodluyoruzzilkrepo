@@ -2,20 +2,27 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![Repo](resim.png)
+
 Bu repo [Kodluyoruzun](https://kodluyoruz.org) Git eğitiminde oluşturduğumuz ilk repo .
 İçerisinde bir adet Readme dosyası bulunuyor .
 
 ## Installation
 
 Öncelikle bu projeyi clonelayın.
-> git clone <https://github.com/ahmethakanyldrm/Kodluyoruz-lkRepo.git>
+
+```bash
+git clone <https://github.com/ahmethakanyldrm/Kodluyoruz-lkRepo.git>
+```
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
 
-> cd kodluyoruzilkrepo <br>
-> code .
+```windows
+cd kodluyoruzilkrepo
+code .
+```
 
 ## Contributing
 
@@ -23,4 +30,4 @@ Pull requestler kabul edilir.Büyük Değişiklikler için , lütfen önce neyi 
 
 ## License
 
-[License](https://google.com)
+[MIT](https://choosealicense.com/licenses/mit/)
