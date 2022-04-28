@@ -20,7 +20,7 @@ git clone <https://github.com/ahmethakanyldrm/Kodluyoruz-lkRepo.git>
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
 
 ```windows
-cd kodluyoruzilkrepo
+cd kodluyoruzzilkrepo
 code .
 ```
 
