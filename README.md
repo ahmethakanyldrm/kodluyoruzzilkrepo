@@ -12,7 +12,7 @@ Bu repo [Kodluyoruzun](https://kodluyoruz.org) Git eğitiminde oluşturduğumuz 
 Öncelikle bu projeyi clonelayın.
 
 ```bash
-git clone <https://github.com/ahmethakanyldrm/Kodluyoruz-lkRepo.git>
+git clone https://github.com/ahmethakanyldrm/Kodluyoruz-lkRepo.git
 ```
 
 ## Usage
